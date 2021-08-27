@@ -1,0 +1,31 @@
+h1 {
+color:red;
+}
+
+h2{
+    color:red;
+    font-style: oblique;
+}
+
+.strikethrough{
+    text-decoration:line-through;
+    font-weight: 700;
+}
+
+.highlight-yellow{
+    background-color: yellow;
+    font-weight: 700;
+}
+
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.background-image{
+    background-image: url("../../../Images/background_image.jpg");
+    background-size:100%;
+}
+
+
